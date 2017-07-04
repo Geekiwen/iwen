@@ -3,7 +3,7 @@
 # 执行：npm install
 
 
-知识点：
+# 知识点：
     1.响应式处理
         安装：npm install --save-dev react-responsive
         处理：
@@ -64,3 +64,4 @@
             https://github.com/enaqx/awesome-react
 
 	6.可以测试了
+    7.好好学习
